@@ -13,3 +13,6 @@ dependencies:
 - name: to-import-2
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: to-import-3
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
