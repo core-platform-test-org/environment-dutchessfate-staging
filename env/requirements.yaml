@@ -16,6 +16,9 @@ dependencies:
 - name: rom8
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: rom9
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - name: test-build-logs
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
