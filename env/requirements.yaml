@@ -16,6 +16,9 @@ dependencies:
 - name: rom10
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: rom13
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - name: rom8
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
